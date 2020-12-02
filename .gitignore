@@ -3,5 +3,9 @@
 bin/
 build/
 
-# Files
+#Files
 *.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
